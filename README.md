@@ -1,3 +1,6 @@
+**NOTICE: This repository has been archived, and will no longer be maintained or accept pull requests.**
+
+
 ## Numeric Indicator with Min/Max Latching ##
 
 **Numeric Indicator with Min/Max Latching** will latch the minimum and maximum values of the current channel and the current system time as the values occur.
